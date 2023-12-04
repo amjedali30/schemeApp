@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618763929952",
+    "project_id": "alfiya-gol-moovatupuzha",
+    "storage_bucket": "alfiya-gol-moovatupuzha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618763929952:android:2b7f4331b8bb90ca84b605",
+        "android_client_info": {
+          "package_name": "luzidcraft.com.alfiya_gold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618763929952-u6409im47ep6faj0c1d64ise1v3utdkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDesueylQAEivKy2jk48sMz1TBm8JwX_Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618763929952-u6409im47ep6faj0c1d64ise1v3utdkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
